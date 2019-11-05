@@ -1,0 +1,26 @@
+{
+  "name": "LIRI-node-app",
+  "version": "1.0.0",
+  "description": "LIRI (Language Interpretation and Recognition Interface) is a command line node app that takes in parameters, searches Spotify for songs, Bands in Town for concerts, and OMDB for movies, and gives back data",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLGaumnitz/LIRI-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLGaumnitz/LIRI-node-app/issues"
+  },
+  "homepage": "https://github.com/JLGaumnitz/LIRI-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
