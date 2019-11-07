@@ -81,9 +81,10 @@ function displayConcertData() {
 
 // // // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // // Function to retrieve song data and display the song's information
+
 function displaySongData() {
     if (searchInput === undefined) {
-        searchInput = "The Sign";
+        searchInput = "'The Sign' Ace of Base";
     }
 
     spotify
@@ -93,10 +94,12 @@ function displaySongData() {
             var songTitle = response.tracks.items[0].name;
             var songUrl = response.tracks.items[0].external_urls.spotify;
             var album = response.tracks.items[0].album.name;
-            var songInfo = "\n==================================\n" + "\n        SONG DATA        \n" + "\n==================================\n" + "\nArtist: " + songArtist + "\nSong Title: " + songTitle +  "\nPreview on Spotify: " + songUrl + "\nAlbum: " + album +"\n==================================\n";
+            var songInfo = "\n==================================\n" + "\n        SONG DATA        \n" + "\n==================================\n" + "\nArtist: " + songArtist + "\nSong Title: " + songTitle + "\nPreview on Spotify: " + songUrl + "\nAlbum: " + album + "\n==================================\n";
 
             console.log(songInfo);
-
+        })
+        .catch(function(err) {
+          console.log(err);
         });
 }
 // displaySongData()
@@ -108,7 +111,7 @@ function displayMovieData() {
     if (searchInput === undefined) {
         searchInput = "Mr. Nobody";
         console.log("\n==================================\n" + "\nYou didn't enter a movie. \nIf you haven't watched 'Mr. Nobody,' then you should: http:/www.imdb.com/title/tt0485947/" + "\nIt's on Netflix!")
-    } 
+    }
     else {
         var queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + searchInput + "&type=movie";
         console.log("queryURL used: " + queryURL);
@@ -148,29 +151,29 @@ function displayMovieData() {
 }
 // displayMovieData()
 
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-    // Function to "Do What It Says"
+// Function to "Do What It Says"
 
-    function displaySomeRandomData() {
-        fs.readFile("random.txt", "utf8", function (error, data) {
-            if (error) {
-                return console.log(error);
-            }
+function displaySomeRandomData() {
+    fs.readFile("random.txt", "utf8", function (error, data) {
+        if (error) {
+            return console.log(error);
+        }
 
-            var dataArray = data.split(",");
-            userCommand = dataArray[0];
-            searchInput = dataArray[1];
+        var dataArray = data.split(",");
+        userCommand = dataArray[0];
+        searchInput = dataArray[1];
 
-            if (userCommand === "concert-this") {
-                displayConcertData();
-            }
-            else if (userCommand === "spotify-this-song") {
-                displaySongData();
-            }
-            else if (userCommand === "movie-this") {
-                movie-this();
-            }
-        })
-    }
+        if (userCommand === "concert-this") {
+            displayConcertData();
+        }
+        else if (userCommand === "spotify-this-song") {
+            displaySongData();
+        }
+        else if (userCommand === "movie-this") {
+            movie - this();
+        }
+    })
+}
 // displaySomeRandomData()
