@@ -56,7 +56,7 @@ function displayConcertData() {
             var nextConcertDateTime = moment(response.data[0].datetime).format("MM/DD/YYYY, hh:mm a")
             var venue = response.data[0].venue.name;
             var location = response.data[0].venue.city + ", " + response.data[0].venue.region + ", " + response.data[0].venue.country;
-            var concertData = "\n==================================\n" + "\n        CONCERT DATA        \n" + "\n==================================\n" + "Next concert: " + nextConcertDateTime + "\nVenue or Tour Name: " + venue + "\nLocation: " + location + "\n==================================\n"
+            var concertData = "\n==================================\n" + "\n        CONCERT DATA        \n" + "\n==================================\n" + "\nArtist or Band Searched: " + searchInput + "\nNext concert: " + nextConcertDateTime + "\nVenue or Tour Name: " + venue + "\nLocation: " + location + "\n==================================\n"
 
             console.log(concertData)
         })
@@ -98,8 +98,8 @@ function displaySongData() {
 
             console.log(songInfo);
         })
-        .catch(function(err) {
-          console.log(err);
+        .catch(function(error) {
+          console.log(error);
         });
 }
 // displaySongData()
@@ -110,7 +110,7 @@ function displaySongData() {
 function displayMovieData() {
     if (searchInput === undefined) {
         searchInput = "Mr. Nobody";
-        console.log("\n==================================\n" + "\nYou didn't enter a movie. \nIf you haven't watched 'Mr. Nobody,' then you should: http:/www.imdb.com/title/tt0485947/" + "\nIt's on Netflix!")
+        console.log("\n==================================\n" + "\nYou didn't enter a movie. \nIf you haven't watched 'Mr. Nobody,' then you should: http:/www.imdb.com/title/tt0485947/" + "\nIt's on Netflix!" + "\n==================================\n")
     }
     else {
         var queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + searchInput + "&type=movie";
@@ -156,7 +156,7 @@ function displayMovieData() {
 // Function to "Do What It Says"
 
 function displaySomeRandomData() {
-    fs.readFile("random.txt", "utf8", function (error, data) {
+    fs.readFile("random.txt", "utf8", function(error, data) {
         if (error) {
             return console.log(error);
         }
@@ -172,7 +172,7 @@ function displaySomeRandomData() {
             displaySongData();
         }
         else if (userCommand === "movie-this") {
-            movie - this();
+            displayMovieData();
         }
     })
 }
