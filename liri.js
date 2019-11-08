@@ -14,7 +14,7 @@ var spotify = new Spotify(keys.spotify);
 
 // Variables to capture user input
 var userCommand = process.argv[2];
-var searchInput = process.argv[3];
+var searchInput = process.argv.slice(3).join(" ");
 
 console.log("Command input: " + userCommand + " Search Item: " + searchInput);
 
@@ -34,7 +34,7 @@ function userInputs(userCommand, searchInput) {
             displaySomeRandomData();
             break;
         default:
-            console.log("That is not a valid command. Please type one of these commands, followed by the band/musician, song, or movie you want information about (in quotation marks): \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
+            console.log("That is not a valid command. Please type one of these commands, followed by the band/musician, song, or movie: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
     }
 }
 
@@ -44,8 +44,8 @@ userInputs(userCommand, searchInput)
 
 
 // // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 // Function to retrieve concert data and display the next concert information
+
 function displayConcertData() {
     var queryURL = "https://rest.bandsintown.com/artists/" + searchInput + "/events?app_id=codingbootcamp";
     console.log("queryURL used: " + queryURL);
@@ -53,12 +53,19 @@ function displayConcertData() {
     axios
         .get(queryURL)
         .then(function (response) {
-            var nextConcertDateTime = moment(response.data[0].datetime).format("MM/DD/YYYY, hh:mm a")
-            var venue = response.data[0].venue.name;
-            var location = response.data[0].venue.city + ", " + response.data[0].venue.region + ", " + response.data[0].venue.country;
-            var concertData = "\n==================================\n" + "\n        CONCERT DATA        \n" + "\n==================================\n" + "\nArtist or Band Searched: " + searchInput + "\nNext concert: " + nextConcertDateTime + "\nVenue or Tour Name: " + venue + "\nLocation: " + location + "\n==================================\n"
+            for (i = 0; i < response.data.length; i++) {
+                var concertDateTime = moment(response.data[i].datetime).format("MM/DD/YYYY, hh:mm a")
+                var venue = response.data[i].venue.name;
+                var location = response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country;
+                var concertData = "\n==================================\n" + "\n        CONCERT DATA        \n" + "\n==================================\n" + "\nArtist or Band Searched: " + searchInput + "\nConcert Date: " + concertDateTime + "\nVenue or Tour Name: " + venue + "\nLocation: " + location + "\n==================================\n"
 
-            console.log(concertData)
+                console.log(concertData)
+
+                fs.appendFile("log.txt", concertData, function (error) {
+                    if (error) throw error;
+                    console.log("Concert Data added to file")
+                })
+            }
         })
         // To handle errors (code from Class Folder 10-NodeJS/Activity 18)
         .catch(function (error) {
@@ -75,16 +82,15 @@ function displayConcertData() {
                 console.log("Error", error.message);
             }
             console.log(error.config);
-        });
+        })
 }
-// displayConcertData()
 
 // // // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // // Function to retrieve song data and display the song's information
 
 function displaySongData() {
     if (searchInput === undefined) {
-        searchInput = "'The Sign' Ace of Base";
+        searchInput = "'The Sign' by Ace of Base";
     }
 
     spotify
@@ -94,15 +100,18 @@ function displaySongData() {
             var songTitle = response.tracks.items[0].name;
             var songUrl = response.tracks.items[0].external_urls.spotify;
             var album = response.tracks.items[0].album.name;
-            var songInfo = "\n==================================\n" + "\n        SONG DATA        \n" + "\n==================================\n" + "\nArtist: " + songArtist + "\nSong Title: " + songTitle + "\nPreview on Spotify: " + songUrl + "\nAlbum: " + album + "\n==================================\n";
+            var songData = "\n==================================\n" + "\n        SONG DATA        \n" + "\n==================================\n" + "\nArtist: " + songArtist + "\nSong Title: " + songTitle + "\nPreview on Spotify: " + songUrl + "\nAlbum: " + album + "\n==================================\n";
 
-            console.log(songInfo);
+            console.log(songData); fs.appendFile("log.txt", songData, function (error) {
+                if (error) throw error;
+                console.log("Song Data added to file")
+            })
+
         })
-        .catch(function(error) {
-          console.log(error);
-        });
+                .catch(function (error) {
+                    console.log(error);
+                });
 }
-// displaySongData()
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Function to retrieve movie data and display the movie's information
@@ -130,6 +139,11 @@ function displayMovieData() {
                 var movieData = "\n==================================\n" + "\n        MOVIE DATA        \n" + "\n==================================\n" + "Movie Title: " + movieTitle + "\nYear: " + movieYear + "\nIMDB Rating: " + imdbMovieRating + "\nRotten Tomatoes Rating: " + rottenTomatoesMovieRating + "\nProduction Country: " + countryMovieProduced + "\nLanguage: " + movieLanguage + "\nPlot: " + moviePlot + "\nActors: " + movieActors + "\n==================================\n"
 
                 console.log(movieData);
+
+                console.log(movieData); fs.appendFile("log.txt", movieData, function (error) {
+                    if (error) throw error;
+                    console.log("Movie Data added to file")
+                })
             })
             // To handle errors (code from Class Folder 10-NodeJS/Activity 18)
             .catch(function (error) {
@@ -149,14 +163,13 @@ function displayMovieData() {
             });
     }
 }
-// displayMovieData()
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 // Function to "Do What It Says"
 
 function displaySomeRandomData() {
-    fs.readFile("random.txt", "utf8", function(error, data) {
+    fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
             return console.log(error);
         }
@@ -176,4 +189,3 @@ function displaySomeRandomData() {
         }
     })
 }
-// displaySomeRandomData()
