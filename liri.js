@@ -14,11 +14,11 @@ var spotify = new Spotify(keys.spotify);
 
 // Variables to capture user input
 var userCommand = process.argv[2];
-var searchInput = process.argv.slice(3).join(" ");
+var searchInput = process.argv.slice(3).join("+");
 
-console.log("Command input: " + userCommand + " Search Item: " + searchInput);
+console.log("Command input: " + userCommand + "   | Search Item: " + searchInput);
 
-// Function to take user's command and search string and choose which function to run
+// Function to capture user's command and search string, and choose which function to run
 function userInputs(userCommand, searchInput) {
     switch (userCommand) {
         case "concert-this":
@@ -43,8 +43,8 @@ function userInputs(userCommand, searchInput) {
 userInputs(userCommand, searchInput)
 
 
-// // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// Function to retrieve concert data and display the next concert information
+//  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Function to retrieve and display the concert data
 
 function displayConcertData() {
     var queryURL = "https://rest.bandsintown.com/artists/" + searchInput + "/events?app_id=codingbootcamp";
@@ -85,12 +85,13 @@ function displayConcertData() {
         })
 }
 
-// // // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// // Function to retrieve song data and display the song's information
+//  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//  Function to retrieve  and display the song's data
 
 function displaySongData() {
-    if (searchInput === undefined) {
-        searchInput = "'The Sign' by Ace of Base";
+    var defaultSong = "'The Sign' Ace of Base"
+    if (!searchInput) {
+        searchInput = defaultSong
     }
 
     spotify
@@ -108,20 +109,19 @@ function displaySongData() {
             })
 
         })
-                .catch(function (error) {
-                    console.log(error);
-                });
+        .catch(function (error) {
+            console.log(error);
+        });
 }
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// Function to retrieve movie data and display the movie's information
+// Function to retrieve  and display the movie's data
 
 function displayMovieData() {
-    if (searchInput === undefined) {
-        searchInput = "Mr. Nobody";
+    var defaultMovie = "Mr. Nobody"
+    if (!searchInput) {
+        searchInput = defaultMovie
         console.log("\n==================================\n" + "\nYou didn't enter a movie. \nIf you haven't watched 'Mr. Nobody,' then you should: http:/www.imdb.com/title/tt0485947/" + "\nIt's on Netflix!" + "\n==================================\n")
-    }
-    else {
         var queryURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + searchInput + "&type=movie";
         console.log("queryURL used: " + queryURL);
         axios
@@ -140,7 +140,7 @@ function displayMovieData() {
 
                 console.log(movieData);
 
-                console.log(movieData); fs.appendFile("log.txt", movieData, function (error) {
+                fs.appendFile("log.txt", movieData, function (error) {
                     if (error) throw error;
                     console.log("Movie Data added to file")
                 })
@@ -165,7 +165,6 @@ function displayMovieData() {
 }
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 // Function to "Do What It Says"
 
 function displaySomeRandomData() {
@@ -178,14 +177,6 @@ function displaySomeRandomData() {
         userCommand = dataArray[0];
         searchInput = dataArray[1];
 
-        if (userCommand === "concert-this") {
-            displayConcertData();
-        }
-        else if (userCommand === "spotify-this-song") {
-            displaySongData();
-        }
-        else if (userCommand === "movie-this") {
-            displayMovieData();
-        }
+        userInputs(userCommand, searchInput)
     })
 }
