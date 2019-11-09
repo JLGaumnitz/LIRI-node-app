@@ -1,0 +1,2148 @@
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 11/09/2019, 07:00 pm
+Venue or Tour Name: FEAR NO MORE TOUR
+Location: Hermantown, MN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 11/10/2019, 07:00 pm
+Venue or Tour Name: FEAR NO MORE
+Location: Fond Du Lac, WI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/06/2019, 07:00 pm
+Venue or Tour Name: A Thrill of Hope Tour 
+Location: Joplin, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/07/2019, 07:00 pm
+Venue or Tour Name: A Thrill of Hope Tour
+Location: Granite City, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/08/2019, 05:00 pm
+Venue or Tour Name: A Thrill of Hope Tour 
+Location: Concordia, KS, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/12/2019, 07:00 pm
+Venue or Tour Name: A Thrill of Hope Tour
+Location: Mount Morris, MI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/13/2019, 07:00 pm
+Venue or Tour Name: A Thrill of Hope Tour
+Location: Grand Haven, MI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Building+429
+Concert Date: 12/15/2019, 06:00 pm
+Venue or Tour Name: A Thrill of Hope Tour 
+Location: Burkesville, KY, United States
+==================================
+
+==================================
+
+        SONG DATA        
+
+==================================
+
+Artist: Ace of Base
+Song Title: The Sign
+Preview on Spotify: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+==================================
+
+==================================
+
+        SONG DATA        
+
+==================================
+
+Artist: Lauren Daigle
+Song Title: You Say
+Preview on Spotify: https://open.spotify.com/track/6Up545NUflOiXo8cEraH49
+Album: Look Up Child
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: Arrival
+Year: 2016
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 94%
+Production Country: USA, Canada, India
+Language: English, Russian, Mandarin
+Plot: A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+Actors: Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg
+==================================
+
+==================================
+
+        SONG DATA        
+
+==================================
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview on Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+==================================
+
+==================================
+
+        SONG DATA        
+
+==================================
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview on Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: An Affair to Remember
+Year: 1957
+IMDB Rating: 7.5/10
+Rotten Tomatoes Rating: 62%
+Production Country: USA
+Language: English, French, Italian
+Plot: A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?
+Actors: Cary Grant, Deborah Kerr, Richard Denning, Neva Patterson
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 11/09/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Esch Sur Alzette, , Luxembourg
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 11/11/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Manchester, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 11/13/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Little London, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 12/05/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Honolulu, HI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 12/13/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 12/14/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 12/15/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 01/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St Kilda, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 01/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Newtown, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 01/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fortitude Valley, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 01/24/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour / Festival One
+Location: Ohaupo, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 01/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Christchurch, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/10/2020, 07:30 pm
+Venue or Tour Name: All For The Hall
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pensacola, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/21/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Jacksonville, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Knoxville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Charlotte, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greenville, SC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 02/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greensboro, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/05/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Dallas, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bossier City, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/12/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Grand Rapids, MI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/06/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Oklahoma City, OK, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/13/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Evansville, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bloomington, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 03/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toledo, OH, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 04/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lexington, KY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Roanoke, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sunrise, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/08/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Orlando, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Atlanta, GA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Omaha, NE, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Minneapolis, MN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sioux Falls, SD, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St. Louis, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Kansas City, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 05/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Green Bay, WI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Rosemont, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: New York, NY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fort Wayne, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/26/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Boston, MA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Wilkes-barre Township, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 06/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hartford, CT, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/02/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toronto, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/03/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Montreal, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pittsburgh, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/10/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hershey, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/11/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Norfolk, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/17/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Austin, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Houston, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: lauren+daigle
+Concert Date: 07/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lafayette, LA, United States
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: The Arrival
+Year: 1996
+IMDB Rating: 6.3/10
+Rotten Tomatoes Rating: 64%
+Production Country: USA, Mexico
+Language: English
+Plot: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
+Actors: Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: The Arrival
+Year: 1996
+IMDB Rating: 6.3/10
+Rotten Tomatoes Rating: 64%
+Production Country: USA, Mexico
+Language: English
+Plot: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
+Actors: Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: The Arrival
+Year: 1996
+IMDB Rating: 6.3/10
+Rotten Tomatoes Rating: 64%
+Production Country: USA, Mexico
+Language: English
+Plot: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
+Actors: Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: Arrival
+Year: 2016
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 94%
+Production Country: USA, Canada, India
+Language: English, Russian, Mandarin
+Plot: A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+Actors: Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: The Arrival
+Year: 1996
+IMDB Rating: 6.3/10
+Rotten Tomatoes Rating: 64%
+Production Country: USA, Mexico
+Language: English
+Plot: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
+Actors: Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane
+==================================
+
+==================================
+
+        MOVIE DATA        
+
+==================================
+Movie Title: An Affair to Remember
+Year: 1957
+IMDB Rating: 7.5/10
+Rotten Tomatoes Rating: 62%
+Production Country: USA
+Language: English, French, Italian
+Plot: A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?
+Actors: Cary Grant, Deborah Kerr, Richard Denning, Neva Patterson
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/09/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Esch Sur Alzette, , Luxembourg
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/05/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Honolulu, HI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/11/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Manchester, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/13/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Little London, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/13/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/14/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/15/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St Kilda, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fortitude Valley, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/24/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour / Festival One
+Location: Ohaupo, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Newtown, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Christchurch, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pensacola, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/21/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Jacksonville, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Charlotte, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greenville, SC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Knoxville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greensboro, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/05/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Dallas, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/06/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Oklahoma City, OK, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bossier City, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/12/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Grand Rapids, MI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/10/2020, 07:30 pm
+Venue or Tour Name: All For The Hall
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/13/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Evansville, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bloomington, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toledo, OH, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 04/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lexington, KY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Atlanta, GA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/08/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Orlando, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Roanoke, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sunrise, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Minneapolis, MN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sioux Falls, SD, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Kansas City, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St. Louis, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Omaha, NE, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Green Bay, WI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Rosemont, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fort Wayne, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/26/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Boston, MA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: New York, NY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hartford, CT, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Wilkes-barre Township, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/02/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toronto, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/03/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Montreal, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pittsburgh, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/10/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hershey, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/11/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Norfolk, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/17/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Austin, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Houston, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lafayette, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/09/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Esch Sur Alzette, , Luxembourg
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/11/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Manchester, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/13/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/05/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Honolulu, HI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/14/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 11/13/2019, 07:00 pm
+Venue or Tour Name: Look Up Child World Tour
+Location: Little London, , United Kingdom
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 12/15/2019, 07:00 pm
+Venue or Tour Name: The Behold Christmas Tour
+Location: New Orleans, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St Kilda, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Newtown, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fortitude Valley, , Australia
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/24/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour / Festival One
+Location: Ohaupo, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 01/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Christchurch, , New Zealand
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pensacola, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/21/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Jacksonville, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/10/2020, 07:30 pm
+Venue or Tour Name: All For The Hall
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/22/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Charlotte, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greenville, SC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Knoxville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 02/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Greensboro, NC, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/06/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Oklahoma City, OK, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/05/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Dallas, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bossier City, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/12/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Grand Rapids, MI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/13/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Evansville, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Bloomington, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Roanoke, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 03/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toledo, OH, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/07/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Atlanta, GA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 04/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lexington, KY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/08/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Orlando, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sunrise, FL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/15/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Minneapolis, MN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/14/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Omaha, NE, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Sioux Falls, SD, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/29/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: St. Louis, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/28/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Kansas City, MO, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 05/30/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Green Bay, WI, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/19/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Fort Wayne, IN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/25/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: New York, NY, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Rosemont, IL, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/20/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Nashville, TN, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/26/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Boston, MA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 06/27/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hartford, CT, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/01/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Wilkes-barre Township, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/03/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Montreal, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/09/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Pittsburgh, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/02/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Toronto, , Canada
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/11/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Norfolk, VA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/10/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Hershey, PA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/16/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Houston, TX, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/18/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Lafayette, LA, United States
+==================================
+
+==================================
+
+        CONCERT DATA        
+
+==================================
+
+Artist or Band Searched: Lauren Daigle
+Concert Date: 07/17/2020, 07:00 pm
+Venue or Tour Name: Lauren Daigle World Tour
+Location: Austin, TX, United States
+==================================
+
+==================================
+
+        SONG DATA        
+
+==================================
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview on Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+==================================
