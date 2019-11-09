@@ -17,9 +17,9 @@ The "movie-this" command queries the OMDB API and returns the following informat
 
 The "do-what-it-says" command uses the fs node package to read the text inside the random.txt file and uses that information to call one of LIRI's commands. In the demo video, it was set to run "spotify-this-song" for "I Want It That Way." I also tested it by changing the random.txt file to include movie-this and "An Affair to Remember" and concert-this and "Lauren Daigle" (screenshots of those results are below). The returned information is displayed in the console and also logged to a log.txt file.
 
-![Image of do-what-it-says as movie-this](.\images\do-what-it-says-movie-this-an-affair-to-remember.PNG)
+![Image of do-what-it-says as movie-this](/images/do-what-it-says-movie-this-an-affair-to-remember.PNG)
 
-![Image of do-what-it-says as concert-this](.\images\do-what-it-says-concert-this-lauren-daigle.PNG)
+![Image of do-what-it-says as concert-this](/images/do-what-it-says-concert-this-lauren-daigle.PNG)
 
 WHY THE PROJECT IS USEFUL
 
